@@ -1,4 +1,4 @@
-#assets
+Assets
 
 * U.S. Dollars - Source TBD
 * Wall - Source TBD
