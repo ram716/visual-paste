@@ -1,0 +1,9 @@
+help
+
+gun1: https://p1.gunbroker.com/img/cats/rifles.png
+gun 2: http://jerrysoutdoorsports.com/communities/0/000/001/641/240//images/15151153_959x336.png
+gun 3: https://montanarifleco.com/wp-content/uploads/sites/2/xer-slide.png
+gun 4: https://cva.com/wp-content/uploads/2019/01/Cascade-Whole-Gun-For-Website.png
+
+solar panel: https://cdn2.bigcommerce.com/n-ww20x/9q4t785n/products/476/images/1117/Canadian_Solar_CS6X_P_310_to_325_P__85753.1512169134.1280.1280.png?c=2
+
