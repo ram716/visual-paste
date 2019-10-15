@@ -2,16 +2,27 @@ help
 
 images:
 gun1: https://p1.gunbroker.com/img/cats/rifles.png
+	Fair Use
 gun 2: http://jerrysoutdoorsports.com/communities/0/000/001/641/240//images/15151153_959x336.png
+	Fair Use
 gun 3: https://montanarifleco.com/wp-content/uploads/sites/2/xer-slide.png
+	Fair Use
 gun 4: https://cva.com/wp-content/uploads/2019/01/Cascade-Whole-Gun-For-Website.png
+	Fair Use
 solar panel: https://cdn2.bigcommerce.com/n-ww20x/9q4t785n/products/476/images/1117/Canadian_Solar_CS6X_P_310_to_325_P__85753.1512169134.1280.1280.png?c=2
+	Fair Use
 elephant: https://dejpknyizje2n.cloudfront.net/svgcustom/clipart/preview/republican-elephant-color-sticker-12966-20589-300x300.png
+	Fair Use
 donkey: https://vectors.pro/wp-content/uploads/2017/10/democratic-donkey-vector-logo.png
+	Fair Use
 fence: https://cdn.clipart.email/6f8a9d75ed5db38ed04ecd891006d6dd_barb-wire-fence-etsy_340-270.jpeg
+	Fair Use
 apple: http://images.clipartpanda.com/apple-clipart-apple_PNG2572.png
+	Fair Use
 books: https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/640/1x/cbbc/world-book-day-onward-journey_4.png
+	Fair Use
 usa: https://clipground.com/images/usa-outline-png-7.png
+	Fair Use
 
 various news articles:
 * ### - not currently in use *
